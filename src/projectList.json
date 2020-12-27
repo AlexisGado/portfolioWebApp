@@ -10,7 +10,7 @@
                 "text":["I wanted to create this website for a while, in order to showcase the significant projects I've worked on. It is the first 'real' website I created, before I was only adapting some html from famous websites to make buggy and ugly pages for associations or jokes.",
                 "This is a pretty messy project where I learned to use React and tried to improve my javascript. When I started, I didn't know React, I barely understood Node, html and css and I had wrote only a few Javascript. Moreover I am pretty bad at design and UI. So I decided to start from a template found online (with thousands of mysterious lines of css) and tried to build something with React from there.",
                 "It was a lot of tinkering and it is still a bit buggy but I am pretty happy with the result and I think I learned a lot in a short period of time !"],
-                "link":"https://github.com",
+                "link":"https://github.com/MisterGado/portfolioWebApp",
                 "im1":"img/p1_i1.png",
                 "im2":"img/p1_i2.png",
                 "imThumb":"img/p1_i1.png"
@@ -21,7 +21,7 @@
                 "own_page":true,
                 "is_github_link":true,
                 "title":"Small rythm games in C++",
-                "date":"March-April 2020, scholar project (optional)",
+                "date":"March-April 2020, school project (optional)",
                 "text":["Our C++ teacher proposed a short class for first year students where there was no class but only a project. The idea was to have us build something we had chosen from scratch in C++. We made (with a friend) 3 little rythm games using the user-friendly graphic library Imagine++.",
                 "One of the game is a clone of Piano Tiles and in the two others, you have to stack some blocks in rythm. The result is not perfect and it really lacks sound effects but we were pretty happy of it knowing that we fully made it without any game engine."],
                 "link":"https://github.com/MisterGado/RythmGames",
@@ -31,30 +31,36 @@
             },
             {
                 "id":3,
-                "own_page":false,
-                "is_github_link":false,
-                "title":"Coming soon !",
-                "date":"",
-                "text":[],
-                "link":"",
-                "im1":"",
-                "im2":"",
-                "imThumb":"img/wip.png"
+                "own_page":true,
+                "is_github_link":true,
+                "title":"Serious game : Microgrid management",
+                "date":"March-April 2020, school project",
+                "text":["Alongside the class 'Optimisation and Energy' taught by researchers at EDF, I worked with four other students on a project. We were in charge of 4 classes during the semester where we had to organize a serious game for the 40 students. The main part of the project was the design and the implementation of this serious game.",
+                "We had to create a serious game where 12 actors of 3 types (solar farms, factories and electric vehicles charging station) were interacting and tried to optimize the use of their batteries in order to minimize their costs. Each actor was played by a team of three students who had to wrote a Python script to execute their strategies on a given period of time. We had to create the actors, manage the costs and penalties calculation, give the players some relevant numbers and graphs to help them understand what they have to change etc...",
+                " We also had to choose the underlying economic model. We played the role of the 'manager' of the microgrid whose objective was to reach an equilibrium and make our group of actors as independant as possible from the national energy supply. To achieve this goal we implemented different policies of penalties and reward to make the players interest converge to that equilibrium.",
+                "This game was fully coded in Python and we used git to gather all the scripts from the player and run the game. It was a quite challenging project because we worked in a team of five and we had to make something understandable and fonctional for a whole class. It is the biggest Python code I've written and I learned a lot about object oriented programming thanks to it.",
+                "The final version of the code is split into several repositories but we gathered most of the scripts in this repo."],
+                "link":"https://github.com/MisterGado/PIR",
+                "im1":"img/p3_i1.jpg",
+                "im2":"img/p3_i2.png",
+                "imThumb":"img/p3_i1.jpg"
 
             }
         ],
         [
             {
                 "id":4,
-                "own_page":false,
-                "is_github_link":false,
-                "title":"Coming soon !",
-                "date":"",
-                "text":[],
-                "link":"",
-                "im1":"",
-                "im2":"",
-                "imThumb":"img/wip.png"
+                "own_page":true,
+                "is_github_link":true,
+                "title":"Smart picture resizing",
+                "date":"Fall 2019, school project",
+                "text":["This was the first 'big' team project I worked on (a group of five students). We had to understand the method of seam carving and implement it and different applications.",
+                "The idea of this technique is to remove (or duplicate) the paths which contain less discontinuity. The paths of minimal weights are found using dynamic programming and we chose some applications to use this method. First we implemented the reduction and enlargement of a picture and then we made a simple UI to allow users to chose some areas to delete or protect from modification, allowing really impressive results !",
+                "We coded in plain C++ with the graphic library Imagine++. You can find more informations about the theory and the applications we chose in the pdf report (available on the Github repository)."],
+                "link":"https://github.com/MisterGado/SeamCarving",
+                "im1":"img/p4_i1.png",
+                "im2":"img/p4_i2.png",
+                "imThumb":"img/p4_i2.png"
 
             },
             {
