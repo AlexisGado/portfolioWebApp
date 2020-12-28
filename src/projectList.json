@@ -65,28 +65,32 @@
             },
             {
                 "id":5,
-                "own_page":false,
+                "own_page":true,
                 "is_github_link":false,
-                "title":"Coming soon !",
-                "date":"",
-                "text":[],
+                "title":"Prototyping NLP tools for a startup",
+                "date":"Fall 2020 - Winter 2021",
+                "text":["This project was offered to the school the startup Harvestr. We volunteered for it with a friend alongside our class of Software Development.",
+                "The objective was to create some prototypes of NLP (Natural Language Processing) tools for the startup. More precisely, this startup has developed an interface (sold to other companies) to gather all the clients' feedback and to rank the most relevant features that should be implemented. Currently, the links between the clients' messages and the features is done manually and they wanted us to try to add automation or at least a suggestion system.",
+                "We couldn’t achieve all we wanted to try but we learned a lot : Typescript, Nodejs, AWS (Comprehend), Elasticsearch. But more importantly we learned what it’s like to code with professionals : good practices, tests, documentation, clarity etc..",
+                "Nb : I can’t put the code here because it is there property."],
                 "link":"",
-                "im1":"",
-                "im2":"",
-                "imThumb":"img/wip.png"
+                "im1":"img/p5_i1.png",
+                "im2":"img/p5_i2.png",
+                "imThumb":"img/p5_i2.png"
 
             },
             {
                 "id":6,
-                "own_page":false,
-                "is_github_link":false,
-                "title":"Coming soon !",
-                "date":"",
-                "text":[],
-                "link":"",
-                "im1":"",
-                "im2":"",
-                "imThumb":"img/wip.png"
+                "own_page":true,
+                "is_github_link":true,
+                "title":"FFT, Poisson's equation and image processing",
+                "date":"February 2020, school project",
+                "text":["During a course of algorithmics, we implemented the Fast Fourier Transform and numerically solved the Poisson equation. Then we did some interesting applications on image processing such as contrast enhancement (right picture) and smooth insertion of elements in another picture (left).",
+                "This was coded in C++ using Imagine++ library. It is a project I liked a lot because it mixed programmation, advanced math and impressive results."],
+                "link":"https://github.com/MisterGado/FFT_Poisson",
+                "im1":"img/p6_i1.png",
+                "im2":"img/p6_i2.png",
+                "imThumb":"img/p6_i1.png"
 
             }
         ],
