@@ -20,7 +20,7 @@ const Footer = () => {
           </div>
           <a href="mailto:gadoalexis@gmail.com" className="u-active-none u-border-1 u-border-white u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-1">gadoalexis@gmail.com</a>
           <a href="mailto:alexis.gadonneix@eleves.enpc.fr" className="u-active-none u-border-1 u-border-white u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-1">alexis.gadonneix@eleves.enpc.fr</a>
-          <Link to={'/'} className="u-text u-text-1">Back to Home page</Link>
+          <Link to={'/portfolioWebApp'} className="u-text u-text-1">Back to Home page</Link>
         </div></footer>
     );
 }
