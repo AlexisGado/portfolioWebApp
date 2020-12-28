@@ -2,11 +2,14 @@
 import './Projects.css';
 import './nicepage.css';
 import {Link} from 'react-router-dom';
+//import p1_i1 from './images/p1_i1.png';
 
 const BlockProject = ({blockNumber,proj}) => {
 
+    let myurl = proj.imThumb;
+    let im = require(`${myurl}`).default;
     const style_im = {
-        backgroundImage: `linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(${proj.imThumb})`,
+        backgroundImage: `linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(${im})`,
         boxShadow: "5px 5px 20px 0 rgba(0,0,0,0.4)",
         backgroundPosition: "50% 50%"
     }

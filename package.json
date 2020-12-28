@@ -2,7 +2,7 @@
   "name": "mon_site",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://MisterGado.github.io/portfolioWebApp/",
+  "homepage": "https://MisterGado.github.io/portfolioWebApp/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -40,5 +40,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "file-loader": "^6.1.1",
+    "image-webpack-loader": "^7.0.1"
   }
 }
