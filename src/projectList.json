@@ -11,8 +11,8 @@
                 "This is a pretty messy project where I learned to use React and tried to improve my javascript. When I started, I didn't know React, I barely understood Node, html and css and I had wrote only a few Javascript. Moreover I am pretty bad at design and UI. So I decided to start from a template found online (with thousands of mysterious lines of css) and tried to build something with React from there.",
                 "It was a lot of tinkering and it is still a bit buggy but I am pretty happy with the result and I think I learned a lot in a short period of time !"],
                 "link":"https://github.com/MisterGado/portfolioWebApp",
-                "im1":"images/p1_i1.png",
-                "im2":"images/p1_i2.png",
+                "im1":"./images/p1_i1.png",
+                "im2":"./images/p1_i2.png",
                 "imThumb":"./images/p1_i1.png"
 
             },
@@ -25,8 +25,8 @@
                 "text":["Our C++ teacher proposed a short class for first year students where there was no class but only a project. The idea was to have us build something we had chosen from scratch in C++. We made (with a friend) 3 little rythm games using the user-friendly graphic library Imagine++.",
                 "One of the game is a clone of Piano Tiles and in the two others, you have to stack some blocks in rythm. The result is not perfect and it really lacks sound effects but we were pretty happy of it knowing that we fully made it without any game engine."],
                 "link":"https://github.com/MisterGado/RythmGames",
-                "im1":"images/p2_i1.png",
-                "im2":"images/p2_i2.png",
+                "im1":"./images/p2_i1.png",
+                "im2":"./images/p2_i2.png",
                 "imThumb":"./images/p2_i2.png"
             },
             {
@@ -41,8 +41,8 @@
                 "This game was fully coded in Python and we used git to gather all the scripts from the player and run the game. It was a quite challenging project because we worked in a team of five and we had to make something understandable and fonctional for a whole class. It is the biggest Python code I've written and I learned a lot about object oriented programming thanks to it.",
                 "The final version of the code is split into several repositories but we gathered most of the scripts in this repo."],
                 "link":"https://github.com/MisterGado/PIR",
-                "im1":"images/p3_i1.jpg",
-                "im2":"images/p3_i2.png",
+                "im1":"./images/p3_i1.jpg",
+                "im2":"./images/p3_i2.png",
                 "imThumb":"./images/p3_i1.jpg"
 
             }
@@ -58,8 +58,8 @@
                 "The idea of this technique is to remove (or duplicate) the paths which contain less discontinuity. The paths of minimal weights are found using dynamic programming and we chose some applications to use this method. First we implemented the reduction and enlargement of a picture and then we made a simple UI to allow users to chose some areas to delete or protect from modification, allowing really impressive results !",
                 "We coded in plain C++ with the graphic library Imagine++. You can find more informations about the theory and the applications we chose in the pdf report (available on the Github repository)."],
                 "link":"https://github.com/MisterGado/SeamCarving",
-                "im1":"images/p4_i1.png",
-                "im2":"images/p4_i2.png",
+                "im1":"./images/p4_i1.png",
+                "im2":"./images/p4_i2.png",
                 "imThumb":"./images/p4_i2.png"
 
             },
@@ -74,8 +74,8 @@
                 "We couldn’t achieve all we wanted to try but we learned a lot : Typescript, Nodejs, AWS (Comprehend), Elasticsearch. But more importantly we learned what it’s like to code with professionals : good practices, tests, documentation, clarity etc..",
                 "Nb : I can’t put the code here because it is there property."],
                 "link":"",
-                "im1":"images/p5_i1.png",
-                "im2":"images/p5_i2.png",
+                "im1":"./images/p5_i1.png",
+                "im2":"./images/p5_i2.png",
                 "imThumb":"./images/p5_i2.png"
 
             },
@@ -88,8 +88,8 @@
                 "text":["During a course of algorithmics, we implemented the Fast Fourier Transform and numerically solved the Poisson equation. Then we did some interesting applications on image processing such as contrast enhancement (right picture) and smooth insertion of elements in another picture (left).",
                 "This was coded in C++ using Imagine++ library. It is a project I liked a lot because it mixed programmation, advanced math and impressive results."],
                 "link":"https://github.com/MisterGado/FFT_Poisson",
-                "im1":"images/p6_i1.png",
-                "im2":"images/p6_i2.png",
+                "im1":"./images/p6_i1.png",
+                "im2":"./images/p6_i2.png",
                 "imThumb":"./images/p6_i1.png"
 
             }
@@ -103,8 +103,8 @@
                 "date":"",
                 "text":[],
                 "link":"",
-                "im1":"",
-                "im2":"",
+                "im1":"./",
+                "im2":"./",
                 "imThumb":"./images/wip.png"
 
             },
@@ -116,8 +116,8 @@
                 "date":"",
                 "text":[],
                 "link":"",
-                "im1":"",
-                "im2":"",
+                "im1":"./",
+                "im2":"./",
                 "imThumb":"./images/wip.png"
 
             },
@@ -129,8 +129,8 @@
                 "date":"",
                 "text":[],
                 "link":"",
-                "im1":"",
-                "im2":"",
+                "im1":"./",
+                "im2":"./",
                 "imThumb":"./images/wip.png"
 
             }

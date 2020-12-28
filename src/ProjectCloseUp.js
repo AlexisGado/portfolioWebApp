@@ -6,13 +6,15 @@ const ProjectCloseUp = ({match}) => {
 
     const id = match.params.id;
     const proj = projectList.projects[Math.floor((id-1)/3)][(id-1)%3];
+    const im1 = require(`${proj.im1}`).default;
+    const im2 = require(`${proj.im2}`).default;
 
     const style_im_1 = {
-        backgroundImage: `linear-gradient(0deg, rgba(255,255,255,0.1), rgba(255,255,255,0.1)),url("../${proj.im1}")`,
+        backgroundImage: `linear-gradient(0deg, rgba(255,255,255,0.1), rgba(255,255,255,0.1)),url("${im1}")`,
       }
     
     const style_im_2 = {
-        backgroundImage: `linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)),url("../${proj.im2}")`,
+        backgroundImage: `linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)),url("${im2}")`,
       }
 
     return (
