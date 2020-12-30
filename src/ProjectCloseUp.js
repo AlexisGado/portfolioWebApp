@@ -1,6 +1,7 @@
 import './ProjectCloseUp.css';
 import './nicepage.css';
 import projectList from './projectList.json';
+import {Link} from 'react-router-dom';
 
 const ProjectCloseUp = ({match}) => {
 
@@ -18,7 +19,7 @@ const ProjectCloseUp = ({match}) => {
       }
 
     return (
-        <div>
+      <div>
         <section className="u-clearfix u-section-proj-1" id="carousel_68e4">
           <div className="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
             <div className="u-layout">
@@ -77,6 +78,15 @@ const ProjectCloseUp = ({match}) => {
           </div>
         </section>):''
         }
+        <section className="u-clearfix u-section-proj-3" id="carousel_89f7">
+          <div className="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+            <Link to = '/projects'>
+              <button className='buttonBack'>
+                Projects page
+              </button>
+            </Link>
+          </div>
+        </section>
       </div>
     );
 }

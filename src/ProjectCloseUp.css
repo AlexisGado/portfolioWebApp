@@ -1,3 +1,18 @@
+.buttonBack {
+  background-color: #6d8e8e;
+  border: none;
+  font-size: 25px;
+  float: left;
+  font-family: Aldrich;
+  padding: 12px;
+  margin-left: 6%;
+  color: white;
+}
+
+.buttonBack:hover {
+  background-color: #857d59;
+}
+
 .u-section-proj-1 {
   min-height: 736px;
 }

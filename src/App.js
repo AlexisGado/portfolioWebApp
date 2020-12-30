@@ -9,10 +9,10 @@ import ProjectCloseUp from './ProjectCloseUp';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Switch>
-          <Route path='/portfolioWebApp' component={Home} />
+          <Route path='/' component={Home} />
           <Route path='/projects' exact component={Projects} />
           <Route path='/resume' exact component={Resume} />
           <Route path='/about' exact component={About} />
