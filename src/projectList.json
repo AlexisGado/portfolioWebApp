@@ -7,8 +7,8 @@
                 "is_github_link":true,
                 "title":"This portfolio web app !",
                 "date":"November-December 2020, personal project",
-                "text":["I wanted to create this website for a while, in order to showcase the significant projects I've worked on. It is the first 'real' website I created, before I was only adapting some html from famous websites to make buggy and ugly pages for associations or jokes.",
-                "This is a pretty messy project where I learned to use React and tried to improve my javascript. When I started, I didn't know React, I barely understood Node, html and css and I had wrote only a few Javascript. Moreover I am pretty bad at design and UI. So I decided to start from a template found online (with thousands of mysterious lines of css) and tried to build something with React from there.",
+                "text":["It's been a while I wanted to create this website, in order to showcase the significant projects I've worked on. It is the first 'real' website I created, before I was only adapting some html files from famous websites to make buggy and ugly pages for associations or jokes.",
+                "This is a pretty messy project where I learned to use React and tried to improve my javascript. When I started, I didn't know React, I barely understood Node, html and css and I had wrote only a few Javascript. Moreover I am pretty bad at design and UI. So I decided to start from a template found online (with thousands of mysterious lines of css) and tried to build something with React from there. I used Github pages to deploy the app because it is free and easy to use but I will probably change in the future because it does not really works with single page apps (don't try to reload the browser !).",
                 "It was a lot of tinkering and it is still a bit buggy but I am pretty happy with the result and I think I learned a lot in a short period of time !"],
                 "link":"https://github.com/MisterGado/portfolioWebApp",
                 "im1":"./images/p1_i1.png",
@@ -69,13 +69,13 @@
                 "is_github_link":false,
                 "title":"Prototyping NLP tools for a startup",
                 "date":"Fall 2020 - Winter 2021",
-                "text":["This project was offered to the school the startup Harvestr. We volunteered for it with a friend alongside our class of Software Development.",
+                "text":["This project was offered to the school by the startup Harvestr. We volunteered for it with a friend alongside our class of Software Development.",
                 "The objective was to create some prototypes of NLP (Natural Language Processing) tools for the startup. More precisely, this startup has developed an interface (sold to other companies) to gather all the clients' feedback and to rank the most relevant features that should be implemented. Currently, the links between the clients' messages and the features is done manually and they wanted us to try to add automation or at least a suggestion system.",
                 "We couldn’t achieve all we wanted to try but we learned a lot : Typescript, Nodejs, AWS (Comprehend), Elasticsearch. But more importantly we learned what it’s like to code with professionals : good practices, tests, documentation, clarity etc..",
                 "Nb : I can’t put the code here because it is there property."],
                 "link":"",
-                "im1":"./images/p5_i1.png",
-                "im2":"./images/p5_i2.png",
+                "im1":"./images/p5_i2.png",
+                "im2":"./images/p5_i1.png",
                 "imThumb":"./images/p5_i2.png"
 
             },
@@ -97,27 +97,29 @@
         [
             {
                 "id":7,
-                "own_page":false,
-                "is_github_link":false,
-                "title":"Coming soon !",
-                "date":"",
-                "text":[],
-                "link":"",
-                "im1":"./",
-                "im2":"./",
-                "imThumb":"./images/wip.png"
+                "own_page":true,
+                "is_github_link":true,
+                "title":"Perfect error correction codes (Haming and Goley)",
+                "date":"January-April 2019",
+                "text":["I was working on my TIPE (a group project for the French engineering schools’ exams) at that time. We had chosen to work on error correction codes : coding the information to be able to reconstruct it event if it passed through noisy communication. It was very motivating because it had a lot of concrete applications and involved pretty tough maths (finite fields are a bit of a challenge).",
+                "I decided to implement some of those correction codes in Python to test those methods. The code is far from clean - I had few, if any experience back then - but the results are still convincing. It was the first time I made a relevant project from scratch without instructions on which methods or library I should use.",
+                "I put the full pdf report in the github repo if you are interested in the theory about these correction codes."],
+                "link":"https://github.com/MisterGado/error_correction_codes",
+                "im1":"./images/p7_i1.jpg",
+                "im2":"./images/p7_i2.png",
+                "imThumb":"./images/p7_i2.png"
 
             },
             {
                 "id":8,
                 "own_page":false,
                 "is_github_link":false,
-                "title":"Coming soon !",
+                "title":"3D reconstruction using stereo vision (currently working on it)",
                 "date":"",
                 "text":[],
                 "link":"",
-                "im1":"./",
-                "im2":"./",
+                "im1":"",
+                "im2":"",
                 "imThumb":"./images/wip.png"
 
             },
@@ -129,8 +131,8 @@
                 "date":"",
                 "text":[],
                 "link":"",
-                "im1":"./",
-                "im2":"./",
+                "im1":"",
+                "im2":"",
                 "imThumb":"./images/wip.png"
 
             }
