@@ -72,7 +72,7 @@
                 "text":["This project was offered to the school by the startup Harvestr. We volunteered for it with a friend alongside our class of Software Development.",
                 "The objective was to create some prototypes of NLP (Natural Language Processing) tools for the startup. More precisely, this startup has developed an interface (sold to other companies) to gather all the clients' feedback and to rank the most relevant features that should be implemented. Currently, the links between the clients' messages and the features is done manually and they wanted us to try to add automation or at least a suggestion system.",
                 "We couldn’t achieve all we wanted to try but we learned a lot : Typescript, Nodejs, AWS (Comprehend), Elasticsearch. But more importantly we learned what it’s like to code with professionals : good practices, tests, documentation, clarity etc..",
-                "Nb : I can’t put the code here because it is there property."],
+                "Nb : I can’t put the code here because it is their property."],
                 "link":"",
                 "im1":"./images/p5_i2.png",
                 "im2":"./images/p5_i1.png",
@@ -103,12 +103,11 @@
                 "date":"January-April 2019",
                 "text":["I was working on my TIPE (a group project for the French engineering schools’ exams) at that time. We had chosen to work on error correction codes : coding the information to be able to reconstruct it even if it passed through noisy communication. It was very motivating because it had a lot of concrete applications and involved pretty tough maths (finite fields are a bit of a challenge).",
                 "I decided to implement some of those correction codes in Python to test those methods. The code is far from clean - I had few, if any experience back then - but the results are still convincing. It was the first time I made a relevant project from scratch without instructions on which methods or library I should use.",
-                "I put the full pdf report in the github repo if you are interested in the theory about these correction codes."],
+                "I put the full pdf report (in French) in the github repo if you are interested in the theory about these correction codes."],
                 "link":"https://github.com/MisterGado/error_correction_codes",
                 "im1":"./images/p7_i1.jpg",
                 "im2":"./images/p7_i2.png",
                 "imThumb":"./images/p7_i2.png"
-
             },
             {
                 "id":8,
