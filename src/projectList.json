@@ -101,7 +101,7 @@
                 "is_github_link":true,
                 "title":"Perfect error correction codes (Haming and Goley)",
                 "date":"January-April 2019",
-                "text":["I was working on my TIPE (a group project for the French engineering schools’ exams) at that time. We had chosen to work on error correction codes : coding the information to be able to reconstruct it event if it passed through noisy communication. It was very motivating because it had a lot of concrete applications and involved pretty tough maths (finite fields are a bit of a challenge).",
+                "text":["I was working on my TIPE (a group project for the French engineering schools’ exams) at that time. We had chosen to work on error correction codes : coding the information to be able to reconstruct it even if it passed through noisy communication. It was very motivating because it had a lot of concrete applications and involved pretty tough maths (finite fields are a bit of a challenge).",
                 "I decided to implement some of those correction codes in Python to test those methods. The code is far from clean - I had few, if any experience back then - but the results are still convincing. It was the first time I made a relevant project from scratch without instructions on which methods or library I should use.",
                 "I put the full pdf report in the github repo if you are interested in the theory about these correction codes."],
                 "link":"https://github.com/MisterGado/error_correction_codes",
