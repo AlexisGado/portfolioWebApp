@@ -12,11 +12,11 @@ function App() {
     <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Switch>
-          <Route path='/' component={Home} />
+          <Route path='/' exact component={Home} />
           <Route path='/projects' exact component={Projects} />
           <Route path='/resume' exact component={Resume} />
           <Route path='/about' exact component={About} />
-          <Route path='/projects/:id' component={ProjectCloseUp} />
+          <Route path='/projects/:id' exact component={ProjectCloseUp} />
         </Switch>
         <Footer />
       </div>

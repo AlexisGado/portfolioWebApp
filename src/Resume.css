@@ -1,0 +1,16 @@
+.buttonResume {
+    background-color: rgb(32, 86, 129);
+    border: none;
+    font-size: 25px;
+    border-radius: 10px;
+    font-family: Aldrich;
+    padding: 12px;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    color:white;
+}
+
+
+.buttonResume:hover {
+    color:rgb(166, 212, 226);
+}
