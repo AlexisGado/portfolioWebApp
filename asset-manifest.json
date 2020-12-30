@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolioWebApp/static/css/main.9f6efed6.chunk.css",
-    "main.js": "/portfolioWebApp/static/js/main.c7f0a776.chunk.js",
-    "main.js.map": "/portfolioWebApp/static/js/main.c7f0a776.chunk.js.map",
+    "main.css": "/portfolioWebApp/static/css/main.0732356e.chunk.css",
+    "main.js": "/portfolioWebApp/static/js/main.070bcc2b.chunk.js",
+    "main.js.map": "/portfolioWebApp/static/js/main.070bcc2b.chunk.js.map",
     "runtime-main.js": "/portfolioWebApp/static/js/runtime-main.d9451810.js",
     "runtime-main.js.map": "/portfolioWebApp/static/js/runtime-main.d9451810.js.map",
-    "static/js/2.25acb56d.chunk.js": "/portfolioWebApp/static/js/2.25acb56d.chunk.js",
-    "static/js/2.25acb56d.chunk.js.map": "/portfolioWebApp/static/js/2.25acb56d.chunk.js.map",
+    "static/js/2.837677f7.chunk.js": "/portfolioWebApp/static/js/2.837677f7.chunk.js",
+    "static/js/2.837677f7.chunk.js.map": "/portfolioWebApp/static/js/2.837677f7.chunk.js.map",
     "static/js/3.2f09514f.chunk.js": "/portfolioWebApp/static/js/3.2f09514f.chunk.js",
     "static/js/3.2f09514f.chunk.js.map": "/portfolioWebApp/static/js/3.2f09514f.chunk.js.map",
     "index.html": "/portfolioWebApp/index.html",
@@ -26,8 +26,8 @@
     "src/images/p6_i1.png": "/portfolioWebApp/src/images/p6_i1.png",
     "src/images/p6_i2.png": "/portfolioWebApp/src/images/p6_i2.png",
     "src/images/wip.png": "/portfolioWebApp/src/images/wip.png",
-    "static/css/main.9f6efed6.chunk.css.map": "/portfolioWebApp/static/css/main.9f6efed6.chunk.css.map",
-    "static/js/2.25acb56d.chunk.js.LICENSE.txt": "/portfolioWebApp/static/js/2.25acb56d.chunk.js.LICENSE.txt",
+    "static/css/main.0732356e.chunk.css.map": "/portfolioWebApp/static/css/main.0732356e.chunk.css.map",
+    "static/js/2.837677f7.chunk.js.LICENSE.txt": "/portfolioWebApp/static/js/2.837677f7.chunk.js.LICENSE.txt",
     "static/media/cv.pdf": "/portfolioWebApp/static/media/cv.eed10b1c.pdf",
     "static/media/desert.jpeg": "/portfolioWebApp/static/media/desert.8209b662.jpeg",
     "static/media/pexels-photo-160107-768x432.jpeg": "/portfolioWebApp/static/media/pexels-photo-160107-768x432.40a04be9.jpeg",
@@ -37,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d9451810.js",
-    "static/js/2.25acb56d.chunk.js",
-    "static/css/main.9f6efed6.chunk.css",
-    "static/js/main.c7f0a776.chunk.js"
+    "static/js/2.837677f7.chunk.js",
+    "static/css/main.0732356e.chunk.css",
+    "static/js/main.070bcc2b.chunk.js"
   ]
 }
